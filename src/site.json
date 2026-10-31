@@ -4,10 +4,10 @@
   "section": "주방·요리",
   "slug": "kitchen",
   "hero": "조리 도구 사용·식품 보관·위생 관리의 기본을 정리합니다.",
-  "description": "주방·요리 분야에서 자주 생기는 문제의 원인과 안전한 점검 방법을 단계별로 설명합니다.",
-  "pageTitle": "주방·요리 문제 해결 및 사용 가이드 | GuideHollow",
+  "description": "조리기구 세척·교차오염 예방·식품 보관을 안전하게 실천하는 주방 가이드",
+  "pageTitle": "주방·요리 생활 정보·문제 해결 가이드 | GuideHollow",
   "url": "https://kitchen.guidehollow.com/",
   "accent": "#B47B50",
-  "launchReady": false,
+  "launchReady": true,
   "adsReady": false
 }
