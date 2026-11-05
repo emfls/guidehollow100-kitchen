@@ -9,5 +9,6 @@
   "url": "https://kitchen.guidehollow.com/",
   "accent": "#B47B50",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
