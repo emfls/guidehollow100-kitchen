@@ -3,12 +3,13 @@
   "short": "주방·요리",
   "section": "주방·요리",
   "slug": "kitchen",
-  "hero": "조리 도구 사용·식품 보관·위생 관리의 기본을 정리합니다.",
-  "description": "조리기구 세척·교차오염 예방·식품 보관을 안전하게 실천하는 주방 가이드",
-  "pageTitle": "주방·요리 생활 정보·문제 해결 가이드 | GuideHollow",
+  "hero": "레시피 인분별 분량 환산",
+  "description": "각 줄을 재료명,분량,단위로 입력하세요. 1/2, 범위, 한 컵 같은 모호한 분량은 지원하지 않습니다.",
+  "pageTitle": "레시피 인분별 분량 환산 | GuideHollow",
   "url": "https://kitchen.guidehollow.com/",
   "accent": "#B47B50",
   "launchReady": true,
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
